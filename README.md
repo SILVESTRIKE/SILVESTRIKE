@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=VAN%20TRONG%20DUONG&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Scalable+Full-Stack+Architectures;Trained+DogBreed+Classifier+to+92%25+Accuracy;Open+to+Full-stack+%7C+Backend+%7C+AI%2FML+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Scalable+Full-Stack+Architectures;Open+to+Full-stack+%7C+Backend+%7C+AI%2FML+Roles)](https://git.io/typing-svg)
 
 <br/>
 
