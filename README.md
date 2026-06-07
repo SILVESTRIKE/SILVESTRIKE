@@ -31,7 +31,7 @@ I am a final-year **Information Technology Engineering** student at the Ho Chi M
 
 My work combines solid **Software Engineering & Clean Architecture** principles with modern **AI & Deep Learning** techniques. I am highly interested in **System Architecture** and the process of aligning technical solutions with business requirements. My long-term goal is to grow into a **Solutions Architect** role.
 
-**Currently:** Developing **Veritas** — an AI-powered Vietnamese Law Assistant using RAG architecture and LLMs for my graduation thesis.
+**Currently:** Developing **Veritas** — an AI-powered Vietnamese Digitizing land registration documents using RAG architecture and LLMs for my graduation thesis.
 
 <br/>
 
@@ -98,11 +98,13 @@ My work combines solid **Software Engineering & Clean Architecture** principles 
 ### 🐕 [DogDexx — Intelligent Dog Species ID System](https://github.com/SILVESTRIKE/DogDexx)
 > **AI-powered identification & encyclopedia** — web application integrating computer vision models to identify breeds and manage records.
 
-`TypeScript` `Next.js` `Python` `PyTorch` `MongoDB` `Express.js`
+`TypeScript` `Next.js` `Python` `PyTorch` `MongoDB` `Cloudinary` `Express.js`
 
-🔹 Trained and optimized a dog breed identification model using PyTorch, achieving 92% accuracy  
 🔹 Built full-stack web UI using Next.js, Node.js, and MongoDB  
-🔹 Implemented real-time prediction pipeline and API Gateway with Express.js  
+🔹 Implemented real-time prediction pipeline and API Gateway with Express.js 
+🔹 Implemented image upload and storage using Cloudinary
+🔹 Design Architecture using Clean Architecture principles
+🔹 Implement CI/CD pipeline for automated testing and deployment
 🔹 **Graduation Thesis Project (2025)**
 
 </td>
@@ -113,10 +115,10 @@ My work combines solid **Software Engineering & Clean Architecture** principles 
 ### 🍵 [WebBanTra — Tea E-Commerce Platform](https://github.com/SILVESTRIKE/WebBanTra)
 > **Full-featured e-commerce platform** for ordering tea online with complete cart, filter, and admin dashboard.
 
-`JavaScript` `Node.js` `Express.js` `MongoDB`
+`ASP.NET Core` `SQL Server` `HTML` `CSS` `JavaScript`
 
 🔹 Implemented shopping cart, search, product filter, checkout, and admin dashboard  
-🔹 Managed MongoDB database structure and backend RESTful APIs with Node.js & Express.js  
+🔹 Managed SQL Server database structure and backend RESTful APIs with ASP.NET and SQL Server  
 🔹 **Coursework Project (2024)**
 
 </td>
@@ -182,7 +184,7 @@ My work combines solid **Software Engineering & Clean Architecture** principles 
 
 <br/>
 
-## 📈 GitHub Analytics
+<!-- ## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -193,7 +195,7 @@ My work combines solid **Software Engineering & Clean Architecture** principles 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SILVESTRIKE&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" />
 
-<br/>
+<br/> -->
 
 ### 🐍 Contribution Snake
 <picture>
