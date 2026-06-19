@@ -21,7 +21,7 @@
 
 ```yaml
 name: Van Trong Duong
-location: District Phu Lam, HCMC, Vietnam 🇻🇳
+location: HCMC, Vietnam 🇻🇳
 education: B.Eng Information Technology @ HUIT (GPA: 3.2/4.0 | IELTS: 6.5)
 focus: Full-Stack Development • AI/ML Engineering
 status: Building a Vietnamese Law AI Assistant (Thesis)
