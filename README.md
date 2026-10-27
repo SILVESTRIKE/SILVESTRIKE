@@ -33,7 +33,7 @@ My work combines solid **Software Engineering & Clean Architecture** principles 
 
 **Currently:** Developing **Veritas** — an AI-powered Vietnamese Digitizing land registration documents using RAG architecture and LLMs for my graduation thesis.
 
-**More about me:** silvestrike.vercel.app
+**More about me:** https://silvestrike.vercel.app
 <br/>
 
 ## 🛠️ Tech Stack
